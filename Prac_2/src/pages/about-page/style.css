@@ -1,0 +1,29 @@
+.about {
+  padding: 128px 0;
+  color: #282938;
+}
+
+.about-wrap {
+  display: flex;
+  gap: 249px;
+}
+
+.about-label {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  margin-bottom: 8px;
+}
+
+.about-left h2 {
+  font-weight: 600;
+  font-size: 54px;
+  line-height: 74px;
+  margin-bottom: 31px;
+}
+
+.about-left p {
+  opacity: 0.7;
+  font-size: 16px;
+  line-height: 28px;
+}
